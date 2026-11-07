@@ -17,6 +17,6 @@ falls back to it if this is unreachable.
 | `models/` | The Bird Box 3D model |
 | top level `*.png`, `*.jpg`, `*.webp` | Logos, frames and backgrounds |
 | `island.png`, `islands/` | Island art. The game loads these from its own server, not from here: each one has to match the walking map files (`*.bin`) beside it, which stay with the code |
-| `source/` | The original artwork and SVGs the art was made from (not loaded by the game) |
+| `source/` | The original artwork the art was made from (not loaded by the game). The vector files the island maps are traced from are not kept here |
 
 There are no sound files yet.
