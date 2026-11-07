@@ -20,3 +20,15 @@ falls back to it if this is unreachable.
 | `source/` | The original artwork the art was made from (not loaded by the game). The vector files the island maps are traced from are not kept here |
 
 There are no sound files yet.
+
+## v1 (the original Flappy Boss)
+
+Everything from the first game, kept in `v1/`:
+
+| Folder | What |
+| --- | --- |
+| `v1/assets/` | The original art, sorted by world, plus its fonts |
+| `v1/music/` | All of its music and sound |
+| `v1/birds/` `v1/eggs/` `v1/cosmetics/` | Every bird, egg and cosmetic picture from the game's database, named after the item |
+| `v1/shop/` `v1/membership/` | The shop's and the membership bonuses' pictures |
+| `v1/index.json` | Which file is which item |

@@ -1,0 +1,456 @@
+{
+ "birds": [
+  {
+   "name": "Red Bird",
+   "file": "birds/Red Bird.png"
+  },
+  {
+   "name": "Duck",
+   "file": "birds/Duck.png"
+  },
+  {
+   "name": "Birdy",
+   "file": "birds/Birdy.png"
+  },
+  {
+   "name": "Cap'n Sparrow",
+   "file": "birds/Cap'n Sparrow.png"
+  },
+  {
+   "name": "Skeleton Bird",
+   "file": "birds/Skeleton Bird.png"
+  },
+  {
+   "name": "Cardinal",
+   "file": "birds/Cardinal.png"
+  },
+  {
+   "name": "Polly the Parrot",
+   "file": "birds/Polly the Parrot.png"
+  },
+  {
+   "name": "Blue Jay",
+   "file": "birds/Blue Jay.webp"
+  },
+  {
+   "name": "TNT Bird",
+   "file": "birds/TNT Bird.webp"
+  },
+  {
+   "name": "Snail Bird",
+   "file": "birds/Snail Bird.png"
+  },
+  {
+   "name": "Day 1 Bird",
+   "file": "birds/Day 1 Bird.png"
+  },
+  {
+   "name": "Toadstool Bird",
+   "file": "birds/Toadstool Bird.png"
+  },
+  {
+   "name": "Flower Bird",
+   "file": "birds/Flower Bird.png"
+  },
+  {
+   "name": "Captain Fish Beak",
+   "file": "birds/Captain Fish Beak.png"
+  },
+  {
+   "name": "Old Pirate bird",
+   "file": "birds/Old Pirate bird.png"
+  },
+  {
+   "name": "AlanDaPengu",
+   "file": "birds/AlanDaPengu.png"
+  },
+  {
+   "name": "Ramen Bird",
+   "file": "birds/Ramen Bird.png"
+  },
+  {
+   "name": "Bush Bird",
+   "file": "birds/Bush Bird.png"
+  },
+  {
+   "name": "Baby Shark",
+   "file": "birds/Baby Shark.png"
+  },
+  {
+   "name": "Coral Whale",
+   "file": "birds/Coral Whale.png"
+  },
+  {
+   "name": "Lemonade Bird",
+   "file": "birds/Lemonade Bird.png"
+  },
+  {
+   "name": "Queen Bee Bird",
+   "file": "birds/Queen Bee Bird.png"
+  },
+  {
+   "name": "Beach Bird",
+   "file": "birds/Beach Bird.png"
+  },
+  {
+   "name": "Vizor Bird",
+   "file": "birds/Vizor Bird.png"
+  },
+  {
+   "name": "Trash Can Bird",
+   "file": "birds/Trash Can Bird.png"
+  },
+  {
+   "name": "Eagle",
+   "file": "birds/Eagle.png"
+  },
+  {
+   "name": "Rock Golem Bird",
+   "file": "birds/Rock Golem Bird.png"
+  },
+  {
+   "name": "Pine Cone Bird",
+   "file": "birds/Pine Cone Bird.png"
+  },
+  {
+   "name": "Money Bird",
+   "file": "birds/Money Bird.png"
+  },
+  {
+   "name": "Goat",
+   "file": "birds/Goat.png"
+  },
+  {
+   "name": "FBI Bird",
+   "file": "birds/FBI Bird.png"
+  },
+  {
+   "name": "Goat Ghost",
+   "file": "birds/Goat Ghost.png"
+  },
+  {
+   "name": "Moolah Bird",
+   "file": "birds/Moolah Bird.png"
+  },
+  {
+   "name": "HamBirder",
+   "file": "birds/HamBirder.png"
+  },
+  {
+   "name": "Mac and Cheese Bird",
+   "file": "birds/Mac and Cheese Bird.png"
+  },
+  {
+   "name": "Gummy Bird",
+   "file": "birds/Gummy Bird.png"
+  },
+  {
+   "name": "Hot Dog Bird",
+   "file": "birds/Hot Dog Bird.png"
+  },
+  {
+   "name": "Fried Chicken",
+   "file": "birds/Fried Chicken.png"
+  },
+  {
+   "name": "Fries Bird",
+   "file": "birds/Fries Bird.png"
+  },
+  {
+   "name": "Red Popsicle Bird",
+   "file": "birds/Red Popsicle Bird.png"
+  },
+  {
+   "name": "Baby Penguin",
+   "file": "birds/Baby Penguin.png"
+  },
+  {
+   "name": "Blue Popsicle Bird",
+   "file": "birds/Blue Popsicle Bird.png"
+  },
+  {
+   "name": "Green Popsicle Bird",
+   "file": "birds/Green Popsicle Bird.png"
+  },
+  {
+   "name": "Inverted Popsicle",
+   "file": "birds/Inverted Popsicle.png"
+  },
+  {
+   "name": "Nerd Bird",
+   "file": "birds/Nerd Bird.png"
+  },
+  {
+   "name": "Beaker Bird",
+   "file": "birds/Beaker Bird.png"
+  },
+  {
+   "name": "Blackboard Bird",
+   "file": "birds/Blackboard Bird.png"
+  },
+  {
+   "name": "Jock Bird",
+   "file": "birds/Jock Bird.png"
+  },
+  {
+   "name": "Diamond Sword Bird",
+   "file": "birds/Diamond Sword Bird.png"
+  },
+  {
+   "name": "Paper Bird",
+   "file": "birds/Paper Bird.png"
+  },
+  {
+   "name": "Pencil Bird",
+   "file": "birds/Pencil Bird.png"
+  },
+  {
+   "name": "Lemon",
+   "file": "birds/Lemon.png"
+  },
+  {
+   "name": "Snake _ Ostrich",
+   "file": "birds/Snake _ Ostrich.png"
+  },
+  {
+   "name": "Tumbleweed Bird",
+   "file": "birds/Tumbleweed Bird.png"
+  },
+  {
+   "name": "Roadrunner",
+   "file": "birds/Roadrunner.png"
+  },
+  {
+   "name": "Eggnog Bird",
+   "file": "birds/Eggnog Bird.png"
+  },
+  {
+   "name": "Ghost Bird",
+   "file": "birds/Ghost Bird.png"
+  },
+  {
+   "name": "Bird o' Lantern",
+   "file": "birds/Bird o' Lantern.png"
+  },
+  {
+   "name": "Zombird",
+   "file": "birds/Zombird.png"
+  },
+  {
+   "name": "FrankenBird",
+   "file": "birds/FrankenBird.png"
+  },
+  {
+   "name": "Mummy",
+   "file": "birds/Mummy.png"
+  },
+  {
+   "name": "Flock_",
+   "file": "birds/Flock_.png"
+  },
+  {
+   "name": "Thriller",
+   "file": "birds/Thriller.png"
+  },
+  {
+   "name": "Scarecrow",
+   "file": "birds/Scarecrow.png"
+  },
+  {
+   "name": "L.3.K",
+   "file": "birds/L.3.K.png"
+  },
+  {
+   "name": "Lime",
+   "file": "birds/Lime.png"
+  },
+  {
+   "name": "Camel",
+   "file": "birds/Camel.png"
+  },
+  {
+   "name": "Thorny Devil",
+   "file": "birds/Thorny Devil.png"
+  }
+ ],
+ "eggs": [
+  {
+   "name": "Pirate",
+   "file": "eggs/Pirate.webp"
+  },
+  {
+   "name": "Mountain",
+   "file": "eggs/Mountain.png"
+  },
+  {
+   "name": "Sky",
+   "file": "eggs/Sky.webp"
+  },
+  {
+   "name": "Desert",
+   "file": "eggs/Desert.png"
+  },
+  {
+   "name": "Nature",
+   "file": "eggs/Nature.png"
+  },
+  {
+   "name": "Halloween",
+   "file": "eggs/Halloween.png"
+  },
+  {
+   "name": "Food",
+   "file": "eggs/Food.png"
+  },
+  {
+   "name": "School",
+   "file": "eggs/School.png"
+  }
+ ],
+ "cosmetics": [
+  {
+   "name": "Crown",
+   "file": "cosmetics/Crown.webp"
+  },
+  {
+   "name": "Aviation Hat",
+   "file": "cosmetics/Aviation Hat.webp"
+  },
+  {
+   "name": "Beanie",
+   "file": "cosmetics/Beanie.png"
+  },
+  {
+   "name": "Aviation Crown",
+   "file": "cosmetics/Aviation Crown.png"
+  },
+  {
+   "name": "Party Hat",
+   "file": "cosmetics/Party Hat.png"
+  },
+  {
+   "name": "Fried Egg",
+   "file": "cosmetics/Fried Egg.png"
+  },
+  {
+   "name": "Banana Peel",
+   "file": "cosmetics/Banana Peel.png"
+  },
+  {
+   "name": "Ketchup",
+   "file": "cosmetics/Ketchup.png"
+  },
+  {
+   "name": "Bird Mask",
+   "file": "cosmetics/Bird Mask.png"
+  },
+  {
+   "name": "TNT Mask",
+   "file": "cosmetics/TNT Mask.png"
+  },
+  {
+   "name": "Seedling",
+   "file": "cosmetics/Seedling.png"
+  },
+  {
+   "name": "Dookie",
+   "file": "cosmetics/Dookie.png"
+  },
+  {
+   "name": "Goalie Mask",
+   "file": "cosmetics/Goalie Mask.png"
+  },
+  {
+   "name": "Knife Beak",
+   "file": "cosmetics/Knife Beak.png"
+  },
+  {
+   "name": "Rthe Hat",
+   "file": "cosmetics/Rthe Hat.png"
+  },
+  {
+   "name": "Graduation Hat",
+   "file": "cosmetics/Graduation Hat.png"
+  },
+  {
+   "name": "Nature Crown",
+   "file": "cosmetics/Nature Crown.png"
+  },
+  {
+   "name": "Witches' Hat",
+   "file": "cosmetics/Witches' Hat.png"
+  },
+  {
+   "name": "Santa Hat",
+   "file": "cosmetics/Santa Hat.png"
+  },
+  {
+   "name": "Bird Nest",
+   "file": "cosmetics/Bird Nest.png"
+  }
+ ],
+ "shop": [
+  {
+   "name": "Food",
+   "file": "shop/Food.png"
+  },
+  {
+   "name": "Sky",
+   "file": "shop/Sky.webp"
+  },
+  {
+   "name": "Banana Peel",
+   "file": "shop/Banana Peel.png"
+  },
+  {
+   "name": "Mountain",
+   "file": "shop/Mountain.png"
+  },
+  {
+   "name": "Trash Can Bird",
+   "file": "shop/Trash Can Bird.png"
+  },
+  {
+   "name": "Baby Penguin",
+   "file": "shop/Baby Penguin.png"
+  },
+  {
+   "name": "Goalie Mask",
+   "file": "shop/Goalie Mask.png"
+  },
+  {
+   "name": "Dookie",
+   "file": "shop/Dookie.png"
+  },
+  {
+   "name": "Knife Beak",
+   "file": "shop/Knife Beak.png"
+  },
+  {
+   "name": "Nature",
+   "file": "shop/Nature.png"
+  },
+  {
+   "name": "TNT Mask",
+   "file": "shop/TNT Mask.png"
+  },
+  {
+   "name": "Pirate",
+   "file": "shop/Pirate.webp"
+  },
+  {
+   "name": "Desert",
+   "file": "shop/Desert.png"
+  }
+ ],
+ "membership": [
+  {
+   "name": "Money Bird",
+   "file": "membership/Money Bird.png"
+  },
+  {
+   "name": "Moolah Bird",
+   "file": "membership/Moolah Bird.png"
+  }
+ ]
+}
